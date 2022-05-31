@@ -1,0 +1,10 @@
+@media only screen and (min-width: 992px){.container {    
+    display: flex;
+    gap: 5px;
+    flex-direction: row-reverse;
+   
+  }
+}
+ .loading{
+   margin: 100px auto;
+ }
