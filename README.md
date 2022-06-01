@@ -1,5 +1,6 @@
-# Live Demo.\
-https://myexpenses-5f9ad.web.app/login
+# Live Demo
+https://myexpenses-5f9ad.web.app/login .\
+This project features an expense tracker app with Authentication feature using firebase. The project involves contextAPI for state management over different compenents. React routing is used to develop this app as a Single Web App also featuring Route Guarding. The user will signup/login and will be redirected to home page where the user can enter his her expense for 3 different years. After logging in every user will see his/her old expenses entered earlier, if the user just signed up their will be no expenses to show as the user has just created the account and there are no expenses to be fetched from the database for him/her.  
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
